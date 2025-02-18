@@ -1,8 +1,7 @@
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
-alunosDataFrame = pd.read_csv("datasets/Students Marks.csv")
 
 height = [3, 12, 5, 18, 45]
 bars = ['A', 'B', 'C', 'D', 'E']
